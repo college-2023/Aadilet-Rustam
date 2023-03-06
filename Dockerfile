@@ -2,7 +2,7 @@ FROM python:3.8
 
 ENV PYTHONUNBUFFERED 1
 
-WORKDIR /home/ubuntu/Adilet-Rustam/actions-runner/_work/Aadilet-Rustam/Aadilet-Rustam
+WORKDIR /home/ubuntu/Aadilet-Rustam/actions-runner/_work/Aadilet-Rustam/Aadilet-Rustam
 
 COPY . .
 
